@@ -14,7 +14,6 @@ This project is a demonstration of a microservices architecture implemented usin
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
     - [Running the Application](#running-the-application)
-    - [Testing](#testing)
 - [API Endpoints](#api-endpoints)
 - [Configuration](#configuration)
 - [Future Enhancements](#future-enhancements)
