@@ -1,4 +1,4 @@
-order-service/HELP.md
+HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -38,9 +38,9 @@ build/
 .vscode/
 
 ## folders
-/mysql/
-/docker/
-/realms/
-/mysql_keycloak_data/
-/mysql/
+mysql/
+docker/
+realms/
+mysql_keycloak_data/
+mysql/
 
